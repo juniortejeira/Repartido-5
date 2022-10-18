@@ -1,0 +1,60 @@
+[
+    {
+        "id": "1",
+        "titulo": "Carne",
+        "precio": "$150",
+        "categoria": "$150",
+        "descripción":"lorem lorem lorem ",
+        "imagen":{
+            "url" :"https://th.bing.com/th/id/OIP.7D26CwoHX8IlsHJhjqUgAgHaEK?pid=ImgDet&rs=1"
+                }
+    },
+    {
+        "id": "1",
+        "titulo": "Carne",
+        "precio": "$150",
+        "imagen":"url",
+        "categoria": "$150",
+        "descripción":"lorem lorem lorem "
+    },
+    {
+        "id": "1",
+        "titulo": "Carne",
+        "precio": "$150",
+        "imagen":"url",
+        "categoria": "$150",
+        "descripción":"lorem lorem lorem "
+    },
+    {
+        "id": "1",
+        "titulo": "Carne",
+        "precio": "$150",
+        "imagen":"url",
+        "categoria": "$150",
+        "descripción":"lorem lorem lorem "
+    },
+    {
+        "id": "1",
+        "titulo": "Carne",
+        "precio": "$150",
+        
+        "categoria": "$150",
+        "descripción":"lorem lorem lorem "
+    },
+    {
+        "id": 1,
+        "titulo": "Carne",
+        "precio": "$150",
+        "imagen":"url",
+        "categoria": "$150",
+        "descripción":"lorem lorem lorem "
+    },
+    {
+        "id": "1",
+        "titulo": "Carne",
+        "precio": "$150",
+        "imagen":"url",
+        "categoria": "$150",
+        "descripción":"lorem lorem lorem "
+    }
+]

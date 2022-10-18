@@ -1,0 +1,48 @@
+h1{
+    border: solid red;
+    font-size: 50px;
+    margin: auto;
+    text-align: center;
+}
+
+/*table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid rgb(234, 11, 11);
+  }*/
+
+  table {
+    width: 100%;
+    border: 1px solid #000;
+ }
+ th, td {
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 0.3em;
+    caption-side: bottom;
+ }
+ caption {
+    padding: 0.3em;
+ }
+
+ /* td{
+    text-align: center;
+    border: 1px solid black;
+        display: flex;
+        flex-direction: column;
+  }*/
+
+  /*table {
+    width: 100%;
+    border: 1px solid #000;
+ }*/
+ th, td {
+    width: 15%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid #000;
+ }
